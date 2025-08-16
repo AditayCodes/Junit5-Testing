@@ -1,6 +1,7 @@
 package com.adicodes;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals; // If you're using assertions
+
 
 import org.junit.Test;
 
